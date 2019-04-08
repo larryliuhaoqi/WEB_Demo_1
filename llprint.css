@@ -1,0 +1,119 @@
+﻿/* Lakeland Reeds Bed and Breakfast */
+@font-face {
+  font-family: 'CuprumFFURegular';
+  src: url('fonts/Cuprum-webfont.eot');
+  src: local('☺'), url('fonts/Cuprum-webfont.woff') format('woff'), url('fonts/Cuprum-webfont.ttf') format('truetype'), url('fonts/Cuprum-webfont.svg#webfontKLktnWy4') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  }
+body {
+  padding: 0;
+  margin: 0;
+  font-family: tahoma, arial, helvetica, sans-serif;
+  }
+h1, h2 {
+  text-align: center;
+  font-family: CuprumFFURegular, georgia, "times new roman", times, serif;
+  }
+h1 {
+  margin: 0;
+  font-size: 2em;
+  line-height: 1.75em;
+  }
+h2 {
+  font-size: 1.5em;
+  }
+h3 {
+  font-size: 1.1em;
+  }
+#skipnav {
+  width: 40em;
+  text-align: right;
+  margin: 0 auto;
+  padding: 0.25em;
+  }
+#mainnav {
+  text-align: center;
+  padding: 0.25em;
+  margin: 0;
+  }
+#pagenav {
+  text-align: center;
+  padding: 0.25em;
+  margin: 0;
+  }
+#box {
+  border: 0.25em solid ;
+  width: 40em;
+  padding: 1em;
+  margin-left: auto; 
+  margin-right: auto;
+  }
+#contact {
+  padding: 0.25em 1.5em;
+  }
+#title {
+  font-style: italic;
+  }
+#name {
+  font-weight: bold;
+  }
+#footer {
+  text-align: center;
+  padding: 0.25em;
+  margin: 0;
+  }
+.callout {
+  font-weight: bold;
+  }
+.desc {
+  padding: 0 3em;
+  margin: 0;
+  }
+.beds {
+  padding: 0 3em;
+  margin-top: 0;
+  margin-bottom: 0.5em;
+  font-weight: bold;
+  }
+.toplink {
+  text-align: right;
+  padding: 0 1em 0.25em 0;
+  margin: 0;
+  }
+a:link {
+  color:black;
+  }
+a:visited {
+  color: black;
+  }
+a:hover {
+  color: black;
+  }
+a:active {
+  color: black;
+  }
+#pagenav a:link {
+  color: white;
+  }
+#pagenav a:visited {
+  color: black;
+  }
+#pagenav a:hover {
+  color:black;
+  }
+#pagenav a:active {
+  color: black;
+  }
+#mainnav a:link {
+  color: black;
+  }
+#mainnav a:visited {
+  color: black;
+  }
+#mainnav a:hover {
+  color: black;
+  }
+#mainnav a:active {
+  color: black;
+  }
